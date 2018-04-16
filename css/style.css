@@ -147,7 +147,7 @@ img
 
 .borderNews
 {
-	border-top: 1px solid black;
+	border-top: 1px solid #a7a2a2;
 }
 
 article a
@@ -185,7 +185,7 @@ article a
 
 footer
 {	
-	border-top: 0.5px solid black;
+	border-top: 0.5px solid #a7a2a2;
 	width: 100%;
 	height: 75px;
 	background-color: white;
