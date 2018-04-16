@@ -1,0 +1,515 @@
+nav
+{
+	position: fixed;
+	width: 100%;
+
+	
+}
+
+ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #525252;
+    font-size: 16px;
+    
+}
+
+ul li 
+{
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+	height: 30px;
+	line-height: 30px;
+}
+
+ul li a 
+{
+    color: white;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
+
+main
+{
+	text-align: justify;
+	padding: 0px 8px;
+	padding-top: 20px;
+}
+
+body
+{
+	background-color: #e5e7ea;
+	font-family: Verdana;
+	margin:0;
+	
+}
+
+
+.border
+{
+	border-top: 1px solid #7e7e7e;
+}
+
+
+
+ul li:hover
+{
+	background-color: #0064b8;
+}
+
+ul li ul
+{
+	display: none;
+}
+
+ul li:hover ul
+{
+	display: block;
+}
+
+ul li:hover ul li 
+{
+	display: block;
+	float: right;
+	width: 150px;
+	background-color: #525252;
+}
+
+ul li ul li:hover
+{
+	background-color: #0064b8;
+}
+
+#sectionPatch
+{
+	width: 100%;
+	height: 115px;
+	padding-top: 200px;
+
+}
+
+#firstArticle
+{
+	height: 115px;
+	width: 140px;
+	float: left;
+	
+}
+
+#secondArticle
+{
+	height: 115px;
+	width: 140px;
+	float: right;
+}
+
+#todayNews
+{
+	font-size: 12px;
+	margin-top: -25px;
+
+}
+
+#todayNewsNews
+{
+	margin-top: -15px;
+	font-size: 12px;
+}
+
+img
+{
+	max-height: 100%;
+	max-width: 100%;
+}
+
+#sectionNews
+{
+	height: 288px;
+	width: 100%;
+	display: block;
+	font-size: 11px;
+	background-color: white;
+	box-shadow: 0 1px 7px 0 rgba(50,50,50,.4);
+
+
+}
+
+.newsLine1
+{
+	height: 35px;
+	padding-left: 5px;
+	line-height: 35px;
+}
+
+.borderNews
+{
+	border-top: 1px solid #00000036;
+}
+
+article a
+{
+	text-decoration: none;
+	color: #0064b8;
+	display: block;
+}
+
+.flags
+{
+	float: left;
+	width: 22px;
+	height: 20px;
+	padding-top: 2px;
+	margin-right: 10px;
+
+}
+
+#yesterdaysNews
+{
+	font-size: 12px;
+	margin-top: 20px;
+}
+
+#sectionNews2
+{
+	height: 358px;
+	width: 100%;
+	display: block;
+	font-size: 11px;
+	background-color: white;
+	box-shadow: 0 1px 7px 0 rgba(50,50,50,.4);
+}
+
+footer
+{	
+	border-top: 0.5px solid #00000087;
+	width: 100%;
+	height: 75px;
+	background-color: white;
+	text-align: center;
+	line-height: 75px;
+	font-size: 11px;
+	position: absolute;
+    bottom: 0;
+    display: block;
+	
+}
+
+
+.ikonky
+{
+	font-size: 15px;
+	margin: 0px -7px;
+}
+
+span
+{
+	margin: 0 12px;
+}
+span a
+{
+	text-decoration: none;
+	color: black;
+}
+
+span i
+{
+	font-size: 40px;
+}
+
+#copy
+{
+	margin-left: 10px;
+}
+
+#newsMain
+{
+	padding-top:210px;
+}
+
+.bottomFooter
+{
+	bottom: unset;
+	margin-top: 20px;
+}
+
+#teamsFont
+{
+	font-size: 12px;
+	margin-top: 50px;
+
+}
+
+
+#playersFont
+{
+	font-size: 12px;
+	margin-top: 15px;
+}
+
+#topTeams
+{
+	height: 355px;
+	width: 100%;
+	display: block;
+	font-size: 11px;
+	
+}
+
+.statsLine
+{
+	 height: 40px;
+	 box-shadow: 0 1px 7px 0 rgba(50,50,50,.4);
+	 background-color: white;
+	 margin: 5px 0;
+	 padding-left: 15px;
+	 line-height: 40px;
+}
+
+
+.logos
+{
+	float: left;
+	width: 30px;
+	height: 30px;
+	
+	margin-right: 20px;
+	margin-top: 5px;
+}
+
+#rankingFont
+{
+	font-size: 12px;
+	margin-top: 50px;
+}
+
+#rankingSection
+{
+	height: 445px;
+	width: 100%;
+	display: block;
+	font-size: 11px;
+	
+}
+
+.numberOne
+{
+	float: left;
+	font-size: 15px; 
+	margin-right: 20px;
+	margin-left: -10px;
+}
+
+#nipLogo
+{
+	margin-left: -11px;
+}
+
+.galleriesFont
+{
+	font-size: 12px;
+	margin-top: 50px;
+}
+
+.fontEvents
+{
+	font-size: 12px;
+
+}
+
+.eventText
+{
+	
+	font-size: 12px;
+}
+
+.marginTop
+{
+	margin-top: 50px;
+}
+
+.iemSection
+{
+	font-size: 12px;
+}
+
+.contactFont
+{
+	font-size: 12px;
+}
+
+.updateFont
+{
+	font-size: 18px;
+}
+
+.paddingTopAll
+{
+	padding-top: 140px;
+}
+
+@media only screen and (min-width: 769px)
+{
+
+	ul
+	{
+		margin: 0px;
+		padding: 0px;
+		list-style: none;
+		background-color: #525252;
+		height: 50px;
+		font-size: 20px;
+	}
+
+	ul li
+	{
+		float: left;
+		width: 16.6%;
+		height: 40px;
+		text-align: center;
+		line-height: 50px;
+	}
+	.border
+	{
+		border-top: none;
+	}
+
+	main
+	{
+		margin:0 20%;
+	}
+
+	#newsMain
+	{
+		padding-top: 90px;
+	}
+
+	#sectionPatch
+	{
+		padding-top: 90px;
+		height: 250px;
+	}
+
+	#firstArticle
+	{
+		width: 300px;
+		margin-left: 10%;
+	}
+
+	#secondArticle
+	{
+		width: 300px;
+		margin-right: 10%;
+	}
+
+	.paddingTopAll
+	{
+		padding-top: 50px;
+	}
+
+	#sectionNews
+	{
+		font-size: 15px;
+		height: 410px;
+	}
+
+	.newsLine1
+	{
+		height: 50px;
+		line-height: 50px;
+	}
+
+	footer
+	{
+		font-size: 20px;
+	}
+
+	#sectionNews2
+	{
+		height: 510px;
+		font-size: 15px;
+	}
+
+	#todayNews
+	{
+		font-size: 18px;
+	}
+
+	#todayNewsNews
+	{
+		font-size: 18px;
+	}
+
+	#yesterdaysNews
+	{
+		font-size: 18px;
+	}
+
+	#teamsFont
+	{
+		font-size: 18px;
+	}
+
+	#playersFont
+	{
+		font-size: 18px;
+	}
+
+	#topTeams
+	{
+		font-size: 15px;
+	}
+
+	#rankingFont
+	{
+		font-size: 18px;
+	}
+
+	#rankingSection
+	{
+		font-size: 15px;
+	}
+
+	.galleriesFont
+	{
+		font-size: 18px;
+	}
+
+	.fontEvents
+	{
+		font-size: 15px;
+	}
+
+	.statsLine
+	{
+		height: 60px;
+		line-height: 60px;
+		font-size: 15px;
+	}
+
+	#topTeams
+	{
+		height: 515px;
+	}
+
+	#rankingSection
+	{
+		height: 645px;
+	}
+
+	.eventText
+	{
+		font-size: 18px;
+	}
+
+	.contactFont
+	{
+		font-size: 18px;
+	}
+
+	
+}
+
