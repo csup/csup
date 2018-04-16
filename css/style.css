@@ -56,7 +56,7 @@ body
 
 
 
-ul li:hover
+ul li a:hover
 {
 	background-color: #0064b8;
 }
@@ -147,7 +147,7 @@ img
 
 .borderNews
 {
-	border-top: 1px solid #00000036;
+	border-top: 1px solid black;
 }
 
 article a
@@ -185,7 +185,7 @@ article a
 
 footer
 {	
-	border-top: 0.5px solid #00000087;
+	border-top: 0.5px solid black;
 	width: 100%;
 	height: 75px;
 	background-color: white;
