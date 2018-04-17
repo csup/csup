@@ -1,6 +1,6 @@
 nav
 {
-	position: fixed;
+	
 	width: 100%;
 
 	
@@ -88,7 +88,7 @@ ul li ul li:hover
 {
 	width: 100%;
 	height: 115px;
-	padding-top: 200px;
+	padding-top: 20px;
 
 }
 
@@ -227,7 +227,7 @@ span i
 
 #newsMain
 {
-	padding-top:210px;
+	padding-top:20px;
 }
 
 .bottomFooter
@@ -239,7 +239,7 @@ span i
 #teamsFont
 {
 	font-size: 12px;
-	margin-top: 50px;
+	margin-top: 0px;
 
 }
 
@@ -283,7 +283,7 @@ span i
 #rankingFont
 {
 	font-size: 12px;
-	margin-top: 50px;
+	
 }
 
 #rankingSection
@@ -311,7 +311,7 @@ span i
 .galleriesFont
 {
 	font-size: 12px;
-	margin-top: 50px;
+	margin-top: 0px;
 }
 
 .fontEvents
@@ -328,7 +328,7 @@ span i
 
 .marginTop
 {
-	margin-top: 50px;
+	margin-top: 0px;
 }
 
 .iemSection
@@ -348,7 +348,7 @@ span i
 
 .paddingTopAll
 {
-	padding-top: 140px;
+	padding-top: 20px;
 }
 
 @media only screen and (min-width: 769px)
